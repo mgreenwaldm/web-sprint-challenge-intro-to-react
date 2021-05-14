@@ -81,13 +81,23 @@ After finishing your required elements, you can push your work further. These go
 Be prepared to demonstrate your understanding of this week's concepts by answering questions on the following topics. You might prepare by writing down your own answers before hand.
 
 1. What is React JS and what problems does it solve? Support your answer with concepts introduced in class and from your personal research on the web.
-  React is a JS library that is used for building user interfaces. ReactJS makes the process of interactive UI's painless. simple views, data is effeciently updated and rendered when data changes. styled components for one is amazing and much easier than navagating to the css file. 
+      
+        React is a JS library that is used for building user interfaces. ReactJS makes the process of interactive UI's painless. simple views, data is effeciently updated and rendered when data changes. styled components for one is amazing and much easier than navagating to the css file. 
 
 1. Describe component state.
 
+        React components has a built-in state object.
+
+    The state object is where you store property values that belongs to the component.
+
+    When the state object changes, the component re-renders
 
 1. Describe props.
 
+        Props is short for properties. 
+
 
 1. What are side effects, and how do you sync effects in a React component to changes of certain state or props?
+
+        Hooks , and we use useEffect and useState to sync effects. 
 
